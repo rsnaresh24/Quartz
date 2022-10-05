@@ -1,9 +1,9 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Digital-Garden
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+My Digital Garden hosted with [Github](https://www.github.com/) ,[Hugo](https://gohugo.io/) & [Quartz](https://quartz.jzhao.xyz/)
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
