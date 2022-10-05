@@ -8,6 +8,8 @@ weight: -4
 ## Editing 
 Quartz runs on top of [Hugo](https://gohugo.io/) so all notes are written in [Markdown](https://www.markdownguide.org/getting-started/).
 
+Let's go
+
 ### Folder Structure
 Here's a rough overview of what's what.
 
